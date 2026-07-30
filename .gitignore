@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+backend/*.db
+backend/test_talentmatch.db
+frontend/node_modules/
+frontend/dist/
+.env
